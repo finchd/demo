@@ -1,6 +1,8 @@
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
+[![Build Status](https://travis-ci.com/finchd/demo.svg?branch=master)](https://travis-ci.com/finchd/demo)
+
 This sample code helps get you started with a simple Flask web service
 deployed by AWS Elastic Beanstalk.
 
